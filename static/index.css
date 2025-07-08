@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+}
+
+.card-img{
+	height: 100px;
+	width: 100px;
+	border: 4px solid black;
+	border-radius: 20px;
+}
